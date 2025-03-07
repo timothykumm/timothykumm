@@ -1,3 +1,1 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Das+Auge+eines+Mannes+schützt+sein+Code+vor+was+Krasses.)](https://github.com/piyushsuthar/github-readme-quotes)
-
-![1000038085](https://github.com/timothykumm/timothykumm/assets/27158937/6f987994-0bfd-471c-9c15-618c2da9e133)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=GitHub%20Issues%3F%20%20My%20personal%20koans%2E%20%20Meditating%20on%20them%2E%20%20Understanding%20their%20essence%2E%2E%2E%20Still%20no%20clue%20how%20to%20fix%20them%2C%20though%2E%20%20Pure%20enlightenment%2C%20baby%21)](https://github.com/piyushsuthar/github-readme-quotes)
